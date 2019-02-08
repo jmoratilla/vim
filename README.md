@@ -12,5 +12,13 @@ and copy the ~/.vim/my.vimrc into your $HOME/.vimrc file
 $ cp ~/.vim/my.vimrc ~/.vimrc
 ```
 
+Last steps are to initialize and update the submodules
+
+```shell
+$ cd .vim
+$ git submodule init
+$ git submodule update
+```
+
 Now enjoy!
 
