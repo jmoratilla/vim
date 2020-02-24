@@ -20,5 +20,18 @@ $ git submodule init
 $ git submodule update
 ```
 
+## Little Vim cheatsheet
+
+I use to forget the short keys to manage screens in Vim.
+
+| keys | use |
+|:---- |:--- |
+| ^W, S| Horizontal split |
+| ^W, v| Vertical split |
+| ^W, Q| Close current split |
+| ^W, \<cursor\> | Switch to adjacent screen |
+
+Also, you can use :sp or :vsp for splitting.
+
 Now enjoy!
 
